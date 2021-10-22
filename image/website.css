@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background: #333;
+    color: white;
+}
+
+
+
+.bg{
+    background-image: url(C:\Users\Arun\Desktop\SAITM prepbytes\htmi_practice.webpage\image\pexels-photo-248515.png");
+    height: 300px;
+    width: 100%;
+}
